@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SNGPL Pressure Monitoring</string>
+    <string name="todo">TODO</string>
+    <string name="loginbtn">LogIn</string>
+    <string name="regbtn">Register</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="emailhint">SomeOne@example.com</string>
+    <string name="passhint">AaBb1122</string>
+    <string name="haveaccount">Already have an account. LogIn</string>
+    <string name="noaccount">Don`t have an account. Register</string>
+    <string name="title">SUI NORTHERN GAS PAKISTAN LIMITED</string>
+    <string name="tbs_name">Station Name</string>
+    <string name="tbs_reg">Regulator Type</string>
+    <string name="tbs_id">Station Id</string>
+    <string name="tbs_last_update">Last Updated</string>
+    <string name="tbs_start_date">Start Date</string>
+    <string name="tbs_end_date">End Date</string>
+    <string name="tbs_status">Status</string>
+    <string name="tbs_alarm">Alarm</string>
+    <string name="tbs_pressure">Pressure</string>
+    <string name="tbs_monitor">Site TBS Monitor Working Area</string>
+    <string name="startdate">Start Date</string>
+    <string name="enddate">End Date</string>
+    <string name="entername">Station Name</string>
+    <string name="enterpressure">Station Pressure</string>
+    <string name="startingdate">2022-01-15</string>
+    <string name="endingdate">2022-02-15</string>
+    <string name="inpressure">In Pressure</string>
+    <string name="Outpressure">Out Pressure</string>
+    <string name="stationname">Satellite Town</string>
+    <string name="nullstr">Null</string>
+</resources>
